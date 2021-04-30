@@ -1,6 +1,5 @@
 {
-
-  "events" [
+  "events": [
       {
           "id" : 1,
           "ownerID" : "id",
