@@ -142,7 +142,7 @@
     },
     {
       "uID" : 5,
-      "firstName" : ,"Event"
+      "firstName" : "Event",
       "lastName" : "Owner",
       "email" : "eventowner@mymail.pomona.edu",
       "campus" : "POM"
